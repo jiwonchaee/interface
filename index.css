@@ -1,0 +1,326 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+.cont{
+    width: 100%;
+    height: 100vh;
+    background-color: #D6D6D6;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+}
+.wrap{
+    width: 1100px;
+    height: 1000px;
+}
+.box1{
+    width: 100%;
+}
+.box1_01{
+    width: 339px;
+    height: 150px;
+    margin-left: -350px;
+}
+
+.box2{
+    width: 1900px;
+    height: 1080px;
+    display: flex;
+    justify-content: center;
+    margin-top: -187px;
+    margin-left: -400px; 
+
+}
+
+.box03{
+    width: 477px;
+    height: 800px;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 800px;
+}
+.sub04{
+    margin-left: 269px;
+}
+.sub05{
+    margin-left: 168px;
+}
+
+/*--네비게이션 시작--*/
+nav{
+    width: 1100px;
+    height: 137px;
+    margin: 0 auto;
+
+}
+ul{
+    width: 1100px;
+    height: 137px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+li{}
+.bt00{padding-right: 234px;}
+.bt01{position: relative;}
+.bt01:after{
+    content: "";
+    width: 2px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 45px;
+}
+.bt02{position: relative;}
+.bt02:after{
+    content: "";
+    width: 2px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 45px;
+}
+.bt03{}
+.bt00:hover{}
+.bt01:hover{}
+.bt02:hover{}
+.bt03:hover{}
+/*--서브01 CSS시작--*/
+.s01_b00{
+    width: 100%;
+    background-color: #D6D6D6;
+}
+.s01_b01{
+    background-color: white;
+}
+.s01_b02{
+    height: 1337px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s01_b03{
+    height: 783px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pic{
+    height: 660px;
+    margin-top: 256px;
+}
+.line{
+    width: 100%;
+    height: 2px;
+    background-color: black;
+}
+.s01_b04{
+    height: 916px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s01_b05{
+    height: 1192px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s01_b06{
+    height: 1328px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ft{
+    width: 100%;
+    height: 126px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+/*--서브02 CSS시작--*/
+.s02_b00{
+    width: 100%;
+    background-color: #D6D6D6;
+}
+.s02_b01{
+    background-color: white;
+}
+.s02_b02{
+    height: 1260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s02_b03{
+    height: 661px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.s02_b04{
+    height: 2215px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.s02_b05{
+    height: 1150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.s02_b06{
+    height: 3081px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.s02_b07{
+    height: 1731px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.ft{
+    width: 100%;
+    height: 126px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+/*--네비게이션 시작--*/
+nav{
+    width: 1100px;
+    height: 137px;
+    margin: 0 auto;
+
+}
+ul{
+    width: 1100px;
+    height: 137px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+li{}
+.bt00{padding-right: 260px;}
+.bt01{position: relative;}
+.bt01:after{
+    content: "";
+    width: 2px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 45px;
+    margin-left: 4px;
+}
+.bt02{position: relative;
+    margin-left: 13px;}
+.bt02:after{
+    content: "";
+    width: 2px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 45px;
+    margin-left: 7px;
+}
+.bt03{margin-left: 20px;}
+/*--서브03 CSS시작--*/
+.s03_b00{
+    width: 100%;
+    background-color: #D6D6D6;
+}
+.s03_b01{
+    background-color: white;
+}
+.s03_b02{
+    height: 1257px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s03_b03{
+    height: 1600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s03_b04{
+    height: 1982px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s03_b05{
+    height: 1281px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s03_b06{
+    height: 1136px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ft{
+    width: 100%;
+    height: 126px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+/*--네비게이션 시작--*/
+nav{
+    width: 1100px;
+    height: 137px;
+    margin: 0 auto;
+
+}
+ul{
+    width: 1100px;
+    height: 137px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+li{}
+.bt00{padding-right: 234px;}
+.bt01{position: relative;}
+.bt01:after{
+    content: "";
+    width: 2px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 45px;
+}
+.bt02{position: relative;}
+.bt02:after{
+    content: "";
+    width: 2px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 45px;
+}
